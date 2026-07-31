@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0485-max-consecutive-ones](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0485-max-consecutive-ones) |
 ## Divide and Conquer
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
