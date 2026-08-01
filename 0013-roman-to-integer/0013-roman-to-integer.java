@@ -9,17 +9,20 @@ class Solution {
         map.put('C',100);
         map.put('D',500);
         map.put('M',1000);
-        for(int i=0;i<s.length()-1;i++){
+        for(int i=0;i<s.length();i++){
             
             char ch=s.charAt(i);
+            char next =  (i+1 < s.length()) ? s.charAt(i+1) : ch;
             int current=map.get(ch);
-            if(current<map.get(s.charAt(i+1))){
-                sum-=current;
-            }else{
-            sum+=map.get(ch);
+            int nnum =  (ch != next) ? map.get(next) : 0;
+            if(current  < nnum){
+                sum -= current;
             }
-        }
-        sum+=map.get(s.charAt(s.length()-1));
-        return sum;
+            else{
+                sum += current;
+            }
+            
+    }
+    return sum;
     }
 }
