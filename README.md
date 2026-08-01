@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0219-contains-duplicate-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -47,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
