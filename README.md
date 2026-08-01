@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0485-max-consecutive-ones) |
 ## Divide and Conquer
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
