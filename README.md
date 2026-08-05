@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0485-max-consecutive-ones) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,8 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0049-group-anagrams) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0013-roman-to-integer) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
