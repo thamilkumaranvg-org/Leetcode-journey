@@ -1,23 +1,25 @@
 class Solution {
-    String intoAlphanum(String s){
-        StringBuilder result = new StringBuilder();
-        for(int i=0;i<s.length();i++){
-            char ch=s.charAt(i);
-            if(Character.isLetterOrDigit(ch)){
-                result.append(Character.toLowerCase(ch));
-            }
-        }
-        return result.toString();
-    }
     public boolean isPalindrome(String s) {
-        String str = intoAlphanum(s);
-        int initial = 0;
-        int last = str.length()-1;
-       while(initial<last){
-        if(str.charAt(initial)!=str.charAt(last)) return false;
-        initial++;
-        last--;
-       }
+        if(s==null && s.length()== 0) return false;
+        int initial=0;
+        int last= s.length() - 1;
+        while(initial<=last){
+            char ch = s.charAt(initial);
+            char ch1=s.charAt(last);
+            if(!((ch>='A' && ch<='Z') ||(ch>='0'&&ch<='9')||(ch>='a'&&ch<='z'))){
+                initial++;
+                continue;
+            }
+            if(!((ch1>='A' && ch1<='Z') ||(ch1>='0'&&ch1<='9')||(ch1>='a'&&ch1<='z'))){
+                last--;
+                continue;
+            }
+            if(ch>='A' && ch<='Z')ch+=32;
+            if(ch1>='A' && ch1<='Z')ch1+=32;
+            if(ch!=ch1) return false;
+            initial++;
+            last--;
+        }
         return true;
     }
 }
