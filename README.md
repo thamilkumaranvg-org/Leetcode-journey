@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0219-contains-duplicate-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0219-contains-duplicate-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0013-roman-to-integer) |
+| [0380-insert-delete-getrandom-o1](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Heap (Priority Queue)
 |  |
@@ -83,4 +86,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
