@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0053-maximum-subarray) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0125-valid-palindrome) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
