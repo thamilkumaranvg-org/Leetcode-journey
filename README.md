@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Heap (Priority Queue)
@@ -111,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
