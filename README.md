@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [1512-number-of-good-pairs](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
