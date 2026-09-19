@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
