@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-design-underground-system](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1512-design-underground-system) |
+| [1512-number-of-good-pairs](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [1512-number-of-good-pairs](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Heap (Priority Queue)
 |  |
