@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0704-binary-search) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-design-underground-system](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1512-design-underground-system) |
@@ -48,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
