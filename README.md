@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0724-find-pivot-index) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Heap (Priority Queue)
