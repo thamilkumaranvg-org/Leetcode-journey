@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
