@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0739-daily-temperatures) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/1512-number-of-good-pairs) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0278-first-bad-version) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
