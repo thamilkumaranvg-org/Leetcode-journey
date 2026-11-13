@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0053-maximum-subarray) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0046-permutations) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/thamilkumaranvg-org/Leetcode-journey/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
